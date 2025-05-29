@@ -50,3 +50,27 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.vs/
+Debug/
+*.asmproj
+*.xml
+*.atsln
+*.pdsprj
+*.workspace
+Project Backups/
+Release/
+*.c~
+*.cbi
+*.cci
+*.cof
+*.cproj
+*.cw~
+*.cwp 
+*.fct
+*.prj
+*.txt
+.vscode/
+.ccls-cache/
+*.prj~
+*.zip
